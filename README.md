@@ -6,7 +6,7 @@ This project contains a Tableau dashboard that visualizes bike sales performance
 [View the Bike Sales Dashboard](https://public.tableau.com/app/profile/shounak.sawant/viz/BikeSales_17545836083650/BikeSalesDashboard?publish=yes)
 
 ## Files
-[Raw Data](Bike_sales (1).xlsx)
+[Raw Data](Bike_sales_data.xlsx)
 
 ## Dashboard Preview
 ![Bike Sales Dashboard](Bike_Sales_Dashboard1.png)
